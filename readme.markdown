@@ -12,6 +12,9 @@ https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPP
 
 ## Data model
 
+![medicare_diagram](https://user-images.githubusercontent.com/35750679/50182438-56468180-02dd-11e9-95e5-694bc971d071.png)
+
+
 See data model diagram in /static/img. 
 
 ## Package Dependencies
